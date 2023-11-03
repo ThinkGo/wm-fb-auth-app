@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814104005051",
+    "project_id": "wmfirebaseauth",
+    "storage_bucket": "wmfirebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814104005051:android:87a0d99e36d70b09331c9e",
+        "android_client_info": {
+          "package_name": "com.walmart.wmfirebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJgQSHANaC4qdzfIM8A8kHxc78GFuSMfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
